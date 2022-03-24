@@ -2,4 +2,4 @@
 index.js
 
 #忽略test文件夹
-test
+test/test1.txt
